@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.ToDoList"
+             Title="Yapılacaklar Listesi"
+             Background="#FAFAFA">
+    <StackLayout>
+
+        <Label Text="Yapılacaklar Listesi" FontSize="24" HorizontalOptions="Center" Margin="0,20,0,10" TextColor="#2E4053"/>
+
+        <ListView x:Name="ToDoListView" Margin="0,0,0,20">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid BackgroundColor="#2E4053" Padding="10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <CheckBox IsChecked="{Binding IsCompleted}" VerticalOptions="Center" Margin="10" Background="#2E4053"/>
+
+                            <Label Text="{Binding TaskName}" Grid.Column="1" VerticalOptions="Center" Background="#2E4053" TextColor="#F0F3F4" FontSize="16"/>
+
+                            <Image Source="kalem.png" Grid.Column="2" VerticalOptions="Center" Margin="10" HeightRequest="20" WidthRequest="20" Background="#2E4053">
+                                <Image.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="EditItem_Tapped"/>
+                                </Image.GestureRecognizers>
+                            </Image>
+
+                            <Image Source="cop.png" Grid.Column="3" VerticalOptions="Center" Margin="10" HeightRequest="20" WidthRequest="20" Background="#2E4053">
+                                <Image.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="DeleteItem_Tapped"/>
+                                </Image.GestureRecognizers>
+                            </Image>
+
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10">
+            <Button Text="Kaydet" Clicked="SaveButton_Clicked" HorizontalOptions="FillAndExpand" Padding="10" Margin="0" TextColor="White" Background="#2E86C1" FontSize="16" WidthRequest="150" CornerRadius="20"/>
+            <Button Text="Yeni Madde Ekle" Clicked="AddNewItemButton_Clicked" HorizontalOptions="FillAndExpand" Padding="10" Margin="0" TextColor="White" Background="#1ABC9C" FontSize="16" WidthRequest="150" CornerRadius="20"/>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\kredihesaplama.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\kredihesaplama.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\vucutkitleindexi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\vucutkitleindexi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\vucutkitleindexi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\vucutkitleindexi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\todolist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\todolist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\todolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\todolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\kredihesaplama.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\kredihesaplama.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\colorpicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\colorpicker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\colorpicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\colorpicker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\tizen\\tizen-manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\tizen\\tizen-manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\maccatalyst\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\maccatalyst\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|d:\\b\u00FC ders notlar\u0131\\5.s\u0131n\u0131f\\g\u00F6rsel programlama\\\u00F6dev\\mauiapp1-main\\mauiapp1-main\\mauiapp1\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{277FCF3F-5AA7-43EB-8F6E-A1D345E87E98}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColorPicker.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ColorPicker.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\ColorPicker.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ColorPicker.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\ColorPicker.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:10:23.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MauiProgram.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MauiProgram.cs",
+              "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:59:03.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoList.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ToDoList.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\ToDoList.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ToDoList.xaml",
+              "RelativeToolTip": "MauiApp1\\ToDoList.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvygAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:16:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoList.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ToDoList.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\ToDoList.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ToDoList.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\ToDoList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:28:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VucutKitleIndexi.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\VucutKitleIndexi.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\VucutKitleIndexi.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\VucutKitleIndexi.xaml",
+              "RelativeToolTip": "MauiApp1\\VucutKitleIndexi.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:12:42.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VucutKitleIndexi.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\VucutKitleIndexi.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\VucutKitleIndexi.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\VucutKitleIndexi.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\VucutKitleIndexi.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:12:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorPicker.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ColorPicker.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\ColorPicker.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\ColorPicker.xaml",
+              "RelativeToolTip": "MauiApp1\\ColorPicker.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:09:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KrediHesaplama.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\KrediHesaplama.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\KrediHesaplama.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\KrediHesaplama.xaml",
+              "RelativeToolTip": "MauiApp1\\KrediHesaplama.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:52:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KrediHesaplama.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\KrediHesaplama.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\KrediHesaplama.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\KrediHesaplama.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\KrediHesaplama.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:44:13.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:44:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\AppShell.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\AppShell.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:43:53.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\App.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:38:45.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\App.xaml",
+              "RelativeToolTip": "MauiApp1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:08:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tizen-manifest.xml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Tizen\\tizen-manifest.xml",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Tizen\\tizen-manifest.xml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Tizen\\tizen-manifest.xml",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Tizen\\tizen-manifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-12T10:40:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:13:24.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:54.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\MacCatalyst\\Info.plist",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\Info.plist",
+              "RelativeToolTip": "MauiApp1\\Platforms\\MacCatalyst\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T10:39:59.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\MacCatalyst\\Program.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\MacCatalyst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:40:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\AppShell.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\AppShell.xaml",
+              "RelativeToolTip": "MauiApp1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:08:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Tizen\\Main.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Tizen\\Main.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Tizen\\Main.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Tizen\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:40:11.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-11-12T10:40:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Windows\\App.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Windows\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T10:40:25.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "MauiApp1\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:39:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MauiApp1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MauiApp1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T10:38:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MauiApp1\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAJoAAAAAAAAAAABBwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:58:25.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "D:\\B\u00DC Ders Notlar\u0131\\5.S\u0131n\u0131f\\G\u00F6rsel Programlama\\\u00D6dev\\MauiApp1-main\\MauiApp1-main\\MauiApp1\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "MauiApp1\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwBMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T09:20:06.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
